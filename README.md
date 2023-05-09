@@ -1,10 +1,10 @@
 
-# Windows Driver pack for Surface Duo platforms
+# Windows Driver pack for POCO X3 Pro
 
-![Surface Duo Dual Screen Windows](https://user-images.githubusercontent.com/3755345/197420866-d3bb0534-c848-4cc2-a242-04dae48b0f6e.png)
+![POCO X3 Pro running Windows 11](https://raw.githubusercontent.com/Ilya114/src_vayu_windows/main/Poco%20X3%20Pro%20Windows1.png)
 
-This repository contains driver binary files for Surface Duo 1 and Surface Duo 2.
-All driver binary files form a board support package to be used on Surface Duo 1 and Surface Duo 2 devices to provide hardware support for the Windows operating system.
+This repository contains driver binary files for POCO X3 Pro.
+All driver binary files form a board support package to be used on POCO X3 Pro devices to provide hardware support for the Windows operating system.
 
 These driver files are not perfect, typos may exist, feel free to file an issue on GitHub in case you found any.
 
@@ -20,7 +20,7 @@ Copyright (c) 2011-2020 Qualcomm Incorporated
 
 Copyright (c) 2019-2022 Microsoft Corporation
 
-This repository contains binary files sourced from Qualcomm Snapdragon 8cx laptops/tablets as well as the Surface Duo original android firmware. As some mistakes may exist, we cannot provide warranty of any kind. 
+This repository contains binary files sourced from Qualcomm Snapdragon 8cx laptops/tablets as well as the POCO X3 Pro original Android firmware. As some mistakes may exist, we cannot provide warranty of any kind. 
 
 - By installing this driver pack, you agree that any damage done to your phone or any loss of data is your entire responsibility and we cannot be taken responsible for data loss if it ever happens. We believe however this driver pack is safe to install. Try at your own risk!
 
@@ -48,5 +48,5 @@ SOFTWARE.
 For preserving charset encoding, please checkout with using:
 
 ```
-git clone -c core.autocrlf=false https://github.com/WOA-Project/SurfaceDuo-Drivers
+git clone -c core.autocrlf=false https://github.com/bibarub/Vayu-Drivers
 ```
