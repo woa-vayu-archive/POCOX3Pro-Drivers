@@ -48,5 +48,5 @@ SOFTWARE.
 For preserving charset encoding, please checkout with using:
 
 ```
-git clone -c core.autocrlf=false https://github.com/bibarub/Vayu-Drivers
+git clone -c core.autocrlf=false https://github.com/woa-vayu/Vayu-Drivers
 ```
