@@ -38,10 +38,10 @@
         </SynchronousCommand>
       </FirstLogonCommands>
       <Themes>
-        <ThemeName>Surface</ThemeName>
+        <ThemeName>Xiaomi</ThemeName>
 		<UWPAppsUseLightTheme>false</UWPAppsUseLightTheme>
 		<SystemUsesLightTheme>false</SystemUsesLightTheme>
-        <DesktopBackground>%WINDIR%\web\wallpaper\oem\surface\Next_Gen_AI_PC_OLED_8K.JPG</DesktopBackground>
+        <DesktopBackground>%WINDIR%\web\wallpaper\oem\Xiaomi\x3n_w0.jpg</DesktopBackground>
       </Themes>
     </component>
     <component name="Microsoft-Windows-TabletPC-Platform-Input-Core" processorArchitecture="arm64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">

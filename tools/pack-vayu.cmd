@@ -36,7 +36,7 @@ echo components\ANYSOC\Support\Desktop\SUPPORT.DESKTOP.MOBILE_RIL >> filelist_va
 echo components\ANYSOC\Support\Desktop\SUPPORT.DESKTOP.MOBILE_RIL_EXTRAS >> filelist_vayu.txt
 echo components\QC8150\Device\DEVICE.SOC_QC8150.VAYU >> filelist_vayu.txt
 echo components\QC8150\Device\DEVICE.SOC_QC8150.VAYU_MINIMAL >> filelist_vayu.txt
-echo components\QC8150\OEM\OEM.SOC_QC8150.POCO >> filelist_vayu.txt
+echo components\QC8150\OEM\OEM.SOC_QC8150.XIAOMI >> filelist_vayu.txt
 echo components\QC8150\Graphics\GRAPHICS.SOC_QC8150.VAYU_DESKTOP >> filelist_vayu.txt
 echo components\QC8150\Platform\PLATFORM.SOC_QC8150.BASE >> filelist_vayu.txt
 echo components\QC8150\Platform\PLATFORM.SOC_QC8150.BASE_MINIMAL >> filelist_vayu.txt
