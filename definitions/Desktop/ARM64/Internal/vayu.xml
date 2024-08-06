@@ -25,14 +25,14 @@
 			<DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.VAYU\Drivers\Battery" Name="x3p_battminiclass.inf" ID="x3p_battminiclass"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.VAYU\Drivers\Battery" Name="x3p_battmngr.inf" ID="x3p_battmngr"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.VAYU\Drivers\Bluetooth" Name="x3p_btfmuart.inf" ID="x3p_btfmuart"/>
+			<!--DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.VAYU\Drivers\Biometric" Name="goodix_wbdi_spi.inf" ID="goodix_wbdi_spi"/-->
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.VAYU\Drivers\Camera" Name="x3p_camauxsensor.inf" ID="x3p_camauxsensor"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.VAYU\Drivers\Camera" Name="x3p_camavs.inf" ID="x3p_camavs"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.VAYU\Drivers\Camera" Name="x3p_camflash.inf" ID="x3p_camflash"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.VAYU\Drivers\Camera" Name="x3p_camfrontsensor.inf" ID="x3p_camfrontsensor"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.VAYU\Drivers\Camera" Name="x3p_camisp.inf" ID="x3p_camisp"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.VAYU\Drivers\Camera" Name="x3p_camrearsensor.inf" ID="x3p_camrearsensor"/>
-            <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.VAYU\Drivers\Cellular\RemoteFS" Name="qcremotefs8150.inf" ID="qcremotefs8150"/>
-            <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.VAYU\Drivers\Cellular\IPA" Name="x3p_ipa.inf" ID="x3p_ipa"/>
+            <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.VAYU\Drivers\Cellular" Name="x3p_ipa.inf" ID="x3p_ipa"/>
 			<DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.VAYU\Drivers\Graphics" Name="X3PPanel.inf" ID="X3PPanel"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.VAYU\Drivers\Sensors\SSC" Name="x3p_sensors.inf" ID="x3p_sensors"/>
 			<DriverPackageFile Path="$(mspackageroot)\components\QC8150\Device\DEVICE.SOC_QC8150.VAYU\Drivers\Subsystems" Name="x3p_subsys.inf" ID="x3p_subsys"/>
@@ -116,6 +116,7 @@
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Platform\PLATFORM.SOC_QC8150.BASE\Source\Drivers\Cellular\MBB" Name="qcmbb.wp8150.inf" ID="qcmbb.wp8150"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Platform\PLATFORM.SOC_QC8150.BASE\Source\Drivers\Cellular\ModemBridge" Name="qcmbrg8150.inf" ID="qcmbrg8150"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Platform\PLATFORM.SOC_QC8150.BASE\Source\Drivers\Cellular\RemoteAT" Name="qcremoteat8150.inf" ID="qcremoteat8150"/>
+            <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Platform\PLATFORM.SOC_QC8150.BASE\Source\Drivers\Cellular\RemoteFS" Name="qcremotefs8150.inf" ID="qcremotefs8150"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Platform\PLATFORM.SOC_QC8150.BASE\Source\Drivers\Cellular\RevRmnet" Name="qcrevrmnet8150.inf" ID="qcrevrmnet8150"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Platform\PLATFORM.SOC_QC8150.BASE\Source\Drivers\Cellular\RmNetBridge" Name="qcrmnetbridge8150.inf" ID="qcrmnetbridge8150"/>
             <DriverPackageFile Path="$(mspackageroot)\components\QC8150\Platform\PLATFORM.SOC_QC8150.BASE\Source\Drivers\Cellular\ThermalMDM" Name="qcthermalmdm.inf" ID="qcthermalmdm"/>
